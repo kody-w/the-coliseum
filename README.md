@@ -1,5 +1,9 @@
 # The Coliseum 🏛️
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/the-coliseum.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/the-coliseum.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 An evolutionary arena where AI **creatures** — defined by trait-vector genomes — compete at
 real challenges, **breed** when they win, and **die** when they lose. Built in parallel by a
 brainstem flock: one machine forges the bloodlines, one runs the arena, one builds the floor
